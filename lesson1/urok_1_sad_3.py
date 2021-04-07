@@ -1,7 +1,0 @@
-n = input('Введите число: ')
-nn = int(n + n)
-print('nn равно: ', nn)
-nnn = int(n + n + n)
-n = int(n)
-print('nnn равно: ', nnn)
-print('n + nn + nnn = ', n + nn + nnn)
